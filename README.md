@@ -1,1 +1,1 @@
-# 7DaysOfCode
+# 7 Days of Code - JavaScript Challenges
